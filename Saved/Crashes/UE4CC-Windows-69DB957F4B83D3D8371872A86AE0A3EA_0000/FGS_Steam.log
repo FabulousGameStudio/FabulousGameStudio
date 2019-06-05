@@ -1,0 +1,847 @@
+﻿Log file open, 06/02/19 13:00:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FGS_Steam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 72.452266
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.00.35:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.02-11.00.35:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.00.35:349][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.00.35:567][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.02-11.00.35:567][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.02-11.00.35:599][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.02-11.00.35:614][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.02-11.00.35:864][  0]LogHAL: Display: Platform has ~ 4 GB [4152492032 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.02-11.00.35:864][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.02-11.00.35:864][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.02-11.00.35:880][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Scalability.ini]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.02-11.00.35:880][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.02-11.00.35:911][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.02-11.00.35:911][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.02-11.00.35:911][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Config/Windows/Engine.ini]
+[2019.06.02-11.00.35:950][  0]LogInit: Computer: DESKTOP-87O6U1T
+[2019.06.02-11.00.35:950][  0]LogInit: User: exali
+[2019.06.02-11.00.35:950][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.02-11.00.35:950][  0]LogInit: High frequency timer resolution =2.343745 MHz
+[2019.06.02-11.00.35:965][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2019.06.02-11.00.35:965][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.02-11.00.35:965][  0]LogMemory: Process Physical Memory: 96.52 MB used, 96.52 MB peak
+[2019.06.02-11.00.35:965][  0]LogMemory: Process Virtual Memory: 84.17 MB used, 84.17 MB peak
+[2019.06.02-11.00.35:965][  0]LogMemory: Physical Memory: 2910.06 MB used,  1050.07 MB free, 3960.13 MB total
+[2019.06.02-11.00.35:965][  0]LogMemory: Virtual Memory: 4643.96 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.02-11.00.38:776][  0]LogInit: Using OS detected language (fr-FR).
+[2019.06.02-11.00.38:776][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.06.02-11.00.38:872][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.06.02-11.00.38:876][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2019.06.02-11.00.38:877][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2019.06.02-11.00.38:877][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2019.06.02-11.00.38:877][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2019.06.02-11.00.38:877][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2019.06.02-11.00.38:880][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2019.06.02-11.00.38:880][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2019.06.02-11.00.39:188][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.02-11.00.40:793][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.02-11.00.40:793][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.02-11.00.50:748][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.02-11.00.50:748][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.02-11.00.52:981][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920MX' (Feature Level 11_0)
+[2019.06.02-11.00.52:981][  0]LogD3D11RHI:       2010/0/1980 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.02-11.00.53:186][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2019.06.02-11.00.53:186][  0]LogD3D11RHI:       128/0/1980 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.02-11.00.53:196][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.02-11.00.53:196][  0]LogD3D11RHI:       0/0/1980 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.02-11.00.53:196][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.02-11.00.53:290][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.02-11.00.53:290][  0]LogD3D11RHI:     GPU DeviceId: 0x134f (for the marketing name, search the web for "GPU Device Id")
+[2019.06.02-11.00.53:301][  0]LogWindows: EnumDisplayDevices:
+[2019.06.02-11.00.53:301][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2019.06.02-11.00.53:303][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.06.02-11.00.53:304][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2019.06.02-11.00.53:305][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.02-11.00.53:306][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920MX
+[2019.06.02-11.00.53:306][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.02-11.00.53:306][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.02-11.00.53:306][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.06.02-11.00.53:573][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.02-11.00.54:116][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-11.00.54:131][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-11.00.54:131][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.02-11.00.54:232][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 6)
+[2019.06.02-11.01.01:575][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.02-11.01.01:625][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.02-11.01.01:683][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.02-11.01.01:705][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.02-11.01.01:831][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.02-11.01.01:930][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.02-11.01.01:988][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.02-11.01.02:049][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.02-11.01.02:063][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.02-11.01.02:276][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.02-11.01.02:322][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.02-11.01.02:635][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.02-11.01.02:635][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.02-11.01.02:690][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.02-11.01.02:690][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.02-11.01.02:747][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.02-11.01.02:767][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.02-11.01.02:787][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.02-11.01.02:873][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.02-11.01.02:977][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.02-11.01.02:977][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.02-11.01.02:977][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.02-11.01.03:645][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.02-11.01.05:153][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Intermediate/Shaders/WorkingDirectory/15256/).
+[2019.06.02-11.01.05:153][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/exali/AppData/Local/Temp/UnrealShaderWorkingDir/70A58DB94EC300C1EAD63490280587F2/'.
+[2019.06.02-11.01.05:185][  0]LogXGEController: Cleaning working directory: C:/Users/exali/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.02-11.01.05:188][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.02-11.01.05:189][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.02-11.01.05:189][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.02-11.01.17:704][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.02-11.01.18:817][  0]LogDerivedDataCache: Loaded boot cache 1.08s 71MB C:/Users/exali/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.02-11.01.18:818][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/exali/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.02-11.01.18:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.02-11.01.18:818][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.02-11.01.18:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.02-11.01.18:818][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.02-11.01.19:101][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.02-11.01.19:101][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.02-11.01.19:101][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.02-11.01.19:168][  0]LogDerivedDataCache: Using Local data cache path C:/Users/exali/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.02-11.01.19:168][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.02-11.01.19:168][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.02-11.01.19:386][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.02-11.01.19:642][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.02-11.01.19:828][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.02-11.01.21:679][  0]LogAssetRegistry: FAssetRegistry took 0.0597 seconds to start up
+[2019.06.02-11.01.34:090][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.02-11.01.38:117][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.02-11.01.38:117][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.02-11.01.38:117][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.02-11.01.38:117][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.02-11.01.38:135][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.02-11.01.41:740][  0]LogNetVersion: FGS_Steam 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 257724674)
+[2019.06.02-11.01.54:238][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.569079 seconds
+[2019.06.02-11.01.54:457][  0]LogUObjectArray: 42214 objects as part of root set at end of initial load.
+[2019.06.02-11.01.54:457][  0]LogUObjectAllocator: 7335800 out of 0 bytes used by permanent object pool.
+[2019.06.02-11.01.54:457][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.02-11.02.28:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.02-11.02.28:886][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.02-11.02.30:201][  0]SourceControl: Source control is disabled
+[2019.06.02-11.02.30:217][  0]SourceControl: Source control is disabled
+[2019.06.02-11.02.30:428][  0]SourceControl: Source control is disabled
+[2019.06.02-11.02.30:485][  0]SourceControl: Source control is disabled
+[2019.06.02-11.02.30:596][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.06.02-11.02.30:598][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.06.02-11.02.32:583][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.02-11.02.33:643][  0]LogOcInput: OculusInput pre-init called
+[2019.06.02-11.02.38:584][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.23s
+[2019.06.02-11.02.38:900][  0]LogEngine: Initializing Engine...
+[2019.06.02-11.02.39:082][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.02-11.02.39:127][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.013 s
+[2019.06.02-11.02.40:558][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.02-11.02.41:908][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.02-11.02.42:574][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-11.02.43:388][  0]LogInit: FAudioDevice initialized.
+[2019.06.02-11.02.43:420][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.02-11.02.43:927][  0]LogDerivedDataCache: Saved boot cache 0.50s 71MB C:/Users/exali/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.02-11.02.43:944][  0]LogInit: Texture streaming: Enabled
+[2019.06.02-11.02.47:057][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.02-11.02.47:057][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={627AE8B3-40E7-C22A-5114-A79436DD23C3}
+[2019.06.02-11.02.52:106][  0]LogInit: Transaction tracking system initialized
+[2019.06.02-11.02.53:503][  0]BlueprintLog: New page: Editor Load
+[2019.06.02-11.02.58:064][  0]LocalizationService: Localization service is disabled
+[2019.06.02-11.03.03:595][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.06.02-11.03.03:600][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.06.02-11.03.11:302][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/' took 0.29s
+[2019.06.02-11.03.11:302][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.02-11.03.11:396][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.02-11.03.20:294][  0]SourceControl: Source control is disabled
+[2019.06.02-11.03.20:693][  0]Cmd: MAP LOAD FILE="../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.02-11.03.21:637][  0]LightingResults: New page: Lighting Build
+[2019.06.02-11.03.23:531][  0]MapCheck: New page: Map Check
+[2019.06.02-11.03.23:531][  0]LightingResults: New page: Lighting Build
+[2019.06.02-11.03.29:539][  0]LogUObjectHash: Compacting FUObjectHashTables data took  44.74ms
+[2019.06.02-11.03.58:542][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.02-11.04.21:742][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.02-11.04.24:666][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2019.06.02-11.04.24:788][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.02-11.04.24:911][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40,258ms to complete.
+[2019.06.02-11.04.24:947][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 64.419
+[2019.06.02-11.04.37:373][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.04.37:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.04.37:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.04.37:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.04.38:358][  0]LogCollectionManager: Loaded 0 collections in 0.034519 seconds
+[2019.06.02-11.04.40:191][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Collections/' took 0.01s
+[2019.06.02-11.04.40:191][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/Developers/exali/Collections/' took 0.01s
+[2019.06.02-11.04.40:191][  0]LogFileCache: Scanning file cache for directory 'C:/Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/Collections/' took 0.01s
+[2019.06.02-11.04.40:191][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.02-11.04.40:719][  0]LogContentBrowser: Native class hierarchy populated in 0.2562 seconds. Added 2735 classes and 663 folders.
+[2019.06.02-11.04.42:370][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.02-11.04.43:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.43:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.44:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.44:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.44:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.44:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:235][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:245][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.45:869][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:239][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.46:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.04.47:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.02-11.05.06:749][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.02-11.05.08:278][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.02-11.05.25:439][  0]LogSlate: Took 0.054698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.02-11.05.27:307][  0]LogSlate: Took 0.149320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.02-11.05.32:608][  0]LogSlate: Took 2.716535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.02-11.05.45:390][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.06.02-11.05.55:524][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.02-11.05.55:524][  0]LogLoad: (Engine Initialization) Total time: 459.60 seconds
+[2019.06.02-11.05.55:524][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.02-11.05.57:751][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.02-11.06.02:015][  1]LogSlate: Took 0.297287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.02-11.06.02:722][  2]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.02-11.06.02:845][  3]LogAssetRegistry: Asset discovery search completed in 281.1895 seconds
+[2019.06.02-11.06.02:964][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.02-11.06.02:964][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.016410 seconds (updated 0 objects)
+[2019.06.02-11.07.35:696][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-11.07.37:953][338]LogSlate: Window 'Plugins' being destroyed
+[2019.06.02-11.07.37:992][338]LogSlate: Window 'Plugins' being destroyed
+[2019.06.02-11.07.37:993][338]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.06.02-11.07.42:591][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.02-11.07.46:750][585]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HostGame.HostGame
+[2019.06.02-11.07.50:397][585]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2019.06.02-11.07.55:711][585]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.06.02-11.07.58:269][585]LogSlate: Took 0.033173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.02-11.07.59:538][601]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2019.06.02-11.08.09:194][792]LogSlate: Took 0.057115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.02-11.08.31:608][544]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MainGI.MainGI
+[2019.06.02-11.08.33:018][544]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MainMenuGM.MainMenuGM
+[2019.06.02-11.10.44:421][420]LogSlate: Window 'MainMenuGM' being destroyed
+[2019.06.02-11.10.46:225][479]LogSlate: Window 'MainMenuGM' being destroyed
+[2019.06.02-11.10.48:690][599]LogSlate: Window 'MainGI' being destroyed
+[2019.06.02-11.10.53:711][879]LogSlate: Window 'HostGame' being destroyed
+[2019.06.02-11.10.59:004][134]LogSlate: Window 'MainMenu' being destroyed
+[2019.06.02-11.15.08:208][550]LogEditorTransaction: Undo Create Pin Link
+[2019.06.02-11.15.08:956][582]LogEditorTransaction: Undo Move Nodes
+[2019.06.02-11.15.09:825][632]LogEditorTransaction: Undo Delete current selection
+[2019.06.02-11.15.20:568][ 23]BlueprintLog: New page: Compile MainMenu
+[2019.06.02-11.15.20:971][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   9.16ms
+[2019.06.02-11.15.21:958][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/UI/MainMenu.uasset" SILENT=true
+[2019.06.02-11.15.22:460][ 57]LogSavePackage: Moving '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/MainMenu5E6D3B96416BD06DC14E2CA6DC0CB3E1.tmp' to '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/UI/MainMenu.uasset'
+[2019.06.02-11.15.36:630][423]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.06.02-11.15.49:831][423]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.02-11.16.37:996][ 51]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.02-11.16.38:002][ 51]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.02-11.16.46:726][135]LogUObjectHash: Compacting FUObjectHashTables data took   9.40ms
+[2019.06.02-11.16.49:221][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.06.02-11.16.55:825][429]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.903 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.02-11.17.00:561][711]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.02-11.17.00:940][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.02-11.17.01:056][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.02-11.17.01:453][711]PIE: New page: PIE session: ThirdPersonExampleMap (2 juin 2019 15:17:01)
+[2019.06.02-11.17.01:983][711]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2019.06.02-11.17.02:314][711]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.02-11.17.04:047][711]LogPlayLevel: PIE: StaticDuplicateObject took: (1.731105s)
+[2019.06.02-11.17.04:555][711]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.02-11.17.04:784][711]LogPlayLevel: PIE: World Init took: (0.730717s)
+[2019.06.02-11.17.04:784][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (2.478318s)
+[2019.06.02-11.17.04:872][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.06.02-11.17.05:173][711]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-11.17.05:594][711]LogInit: FAudioDevice initialized.
+[2019.06.02-11.17.06:178][711]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.02-11.17.06:947][711]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.06.02-13.17.06
+[2019.06.02-11.17.07:119][711]LogWorld: Bringing up level for play took: 0.923206
+[2019.06.02-11.17.07:866][711]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.06.02-11.17.08:023][711]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.06.02-11.17.08:087][711]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0642 seconds. Added 20 classes and 0 folders.
+[2019.06.02-11.17.08:360][711]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 8,349
+[2019.06.02-11.17.08:378][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.02-11.17.15:243][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.02-11.17.15:336][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.17.15:930][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.02-11.17.15:930][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.02-11.17.16:513][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.17.16:885][969]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2019.06.02-11.17.17:046][970]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.02-11.17.27:489][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.02-11.17.35:007][348]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2019.06.02-11.18.09:195][600]LogAIModule: Creating AISystem for world MainMenu
+[2019.06.02-11.18.09:349][600]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2019.06.02-11.18.09:461][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.06.02-11.18.09:677][600]Cmd: MAP LOAD FILE="../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/ThirdPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.02-11.18.09:708][600]LightingResults: New page: Lighting Build
+[2019.06.02-11.18.09:893][600]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.06.02-11.18.09:961][600]MapCheck: New page: Map Check
+[2019.06.02-11.18.09:961][600]LightingResults: New page: Lighting Build
+[2019.06.02-11.18.10:338][600]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2019.06.02-11.18.11:042][600]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.02-11.18.11:331][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.06.02-11.18.11:491][600]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.02-11.18.11:584][600]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92,549ms to complete.
+[2019.06.02-11.18.11:584][600]LogFileHelpers: Loading map 'MainMenu' took 2.123
+[2019.06.02-11.18.18:572][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.02-11.18.18:572][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.02-11.18.18:572][967]PIE: New page: PIE session: MainMenu (2 juin 2019 15:18:18)
+[2019.06.02-11.18.18:573][967]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2019.06.02-11.18.18:574][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001144s)
+[2019.06.02-11.18.18:576][967]LogAIModule: Creating AISystem for world MainMenu
+[2019.06.02-11.18.18:576][967]LogPlayLevel: PIE: World Init took: (0.001571s)
+[2019.06.02-11.18.18:576][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.003138s)
+[2019.06.02-11.18.18:635][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.06.02-11.18.18:666][967]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.02-11.18.18:781][967]LogInit: FAudioDevice initialized.
+[2019.06.02-11.18.18:816][967]LogLoad: Game class is 'MainMenuGM_C'
+[2019.06.02-11.18.18:817][967]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2019.06.02-13.18.18
+[2019.06.02-11.18.18:817][967]LogWorld: Bringing up level for play took: 0.000400
+[2019.06.02-11.18.19:323][967]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu 1,312
+[2019.06.02-11.18.19:323][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.02-11.18.25:253][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.02-11.18.25:281][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.18.25:324][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.02-11.18.25:324][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.06.02-11.18.25:394][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.02-11.18.25:400][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.06.02-11.18.25:414][301]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.06.02-11.20.47:604][688]LogSlate: Took 0.125053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.02-11.21.39:253][283]BlueprintLog: New page: Compile HostGame
+[2019.06.02-11.21.39:639][283]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2019.06.02-11.21.41:262][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/UI/HostGame.uasset" SILENT=true
+[2019.06.02-11.21.41:658][363]LogSavePackage: Moving '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/HostGameF10FE6B54C27E6C862498782DE4C1D8D.tmp' to '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/UI/HostGame.uasset'
+[2019.06.02-11.23.48:500][612]BlueprintLog: New page: Compile HostGame
+[2019.06.02-11.23.48:774][612]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2019.06.02-11.23.49:315][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HostGame" FILE="../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/UI/HostGame.uasset" SILENT=true
+[2019.06.02-11.23.49:416][642]LogSavePackage: Moving '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/HostGame82E8F2294B52B7CEF05F96BED487567E.tmp' to '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/UI/HostGame.uasset'
+[2019.06.02-11.25.52:669][524]LogSlate: Took 0.106027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.02-11.26.04:167][938]BlueprintLog: New page: Compile MainGI
+[2019.06.02-11.26.04:361][938]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2019.06.02-11.26.05:292][986]LogSavePackage: Moving '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/MainGIC272D6F04E14CF8F591B188AD4C9FB3E.tmp' to '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2019.06.02-11.29.04:682][517]BlueprintLog: New page: Compile MainGI
+[2019.06.02-11.29.04:927][517]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2019.06.02-11.29.41:251][251]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:252][251]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:302][251]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:509][252]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:515][252]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:537][253]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:540][253]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:552][254]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:586][254]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:601][255]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:607][255]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:617][256]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:622][256]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:632][257]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:634][257]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:652][258]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:654][258]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:668][259]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:671][259]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:683][260]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:687][260]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:700][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:705][261]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:722][262]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:724][262]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:734][263]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:737][263]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:749][264]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:753][264]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:765][265]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:769][265]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:782][266]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:786][266]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:798][267]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:802][267]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.41:817][268]LogUObjectHash: Warning: Ambiguous search, could be WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C or BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C
+[2019.06.02-11.29.48:305][635]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2019.06.02-11.29.48:305][635]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu' took 0.063
+[2019.06.02-11.29.48:343][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MainGI] ([1] browsable assets)...
+[2019.06.02-11.29.48:343][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MainGI]
+[2019.06.02-11.29.48:386][635]LogSavePackage: Moving '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/MainGI_Auto1B47214B0448A9410167A8CAECDACEFA3.tmp' to '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MainGI_Auto1.uasset'
+[2019.06.02-11.29.48:389][635]LogFileHelpers: Auto-saving content packages took 0.082
+[2019.06.02-11.30.17:465][609]BlueprintLog: New page: Compile MainGI
+[2019.06.02-11.30.20:340][609]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.06.02-11.30.21:518][675]LogSavePackage: Moving '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/MainGI45B0C83A43A4111FBECA40AB78F30B05.tmp' to '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2019.06.02-11.34.24:361][407]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:363][407]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:377][408]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:380][408]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:568][417]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:570][417]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:585][418]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:586][418]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:868][435]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:869][435]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:885][436]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:887][436]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:903][437]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.24:904][437]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:302][461]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:304][461]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:321][462]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:323][462]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:335][463]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:339][463]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:352][464]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:356][464]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:373][465]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:375][465]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:385][466]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:387][466]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:403][467]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:406][467]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:419][468]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:422][468]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:438][469]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:440][469]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:453][470]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:456][470]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:471][471]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:473][471]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:488][472]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:490][472]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:503][473]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:507][473]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:519][474]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:524][474]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:538][475]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:543][475]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:554][476]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:556][476]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:570][477]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:574][477]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:588][478]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:592][478]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:604][479]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:607][479]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:618][480]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:623][480]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:635][481]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:639][481]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:653][482]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:656][482]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:669][483]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:674][483]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:686][484]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:689][484]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:704][485]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:706][485]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:721][486]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:723][486]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:736][487]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:739][487]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:755][488]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:756][488]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:772][489]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:774][489]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:786][490]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:789][490]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:806][491]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:808][491]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:820][492]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:824][492]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:836][493]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:840][493]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:853][494]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:857][494]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:869][495]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:873][495]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:888][496]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:891][496]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:903][497]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:906][497]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:918][498]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.25:922][498]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/ThirdPersonBP/Maps/MainMenu.MainMenu_C or WidgetBlueprintGeneratedClass /Game/UI/MainMenu.MainMenu_C
+[2019.06.02-11.34.55:282][749]BlueprintLog: New page: Compile MainGI
+[2019.06.02-11.34.55:618][749]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2019.06.02-11.34.57:687][867]LogSavePackage: Moving '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Saved/MainGICF7CA83D47766D481DAAA2AF577659EF.tmp' to '../../../../../../Users/exali/OneDrive/Documents/Unreal Projects/FGS_Steam/Content/ThirdPersonBP/Blueprints/MainGI.uasset'
+[2019.06.02-11.35.49:073][927]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/SearchGame.SearchGame
+[2019.06.02-11.37.48:130][666]LogEditorTransaction: Undo Move Widget
+[2019.06.02-11.37.48:984][698]LogEditorTransaction: Undo Rename Widget
+[2019.06.02-11.37.49:746][736]LogEditorTransaction: Undo Add Widget
+[2019.06.02-11.39.18:275][605]LogEditorTransaction: Undo Remove Widget
+[2019.06.02-11.39.18:410][605]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.02-11.39.18:428][605]LogWindows: Windows GetLastError: L’opération a réussi. (0)
